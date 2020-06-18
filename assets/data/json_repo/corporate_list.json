@@ -1,0 +1,166 @@
+{
+    "corporates": [
+
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "EY",
+            "airlineName": "Etihad Airways",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Etihad_Airways#/media/File:Etihad-airways-logo.svg",
+            "companyCode": "corp001",
+            "companyName" : "Abu Dhabi National Oil Company",
+            "companyLogo" : "https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company#/media/File:ADNOC_logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LDAP"
+        },
+       
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "EY",
+            "airlineName": "Etihad Airways",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Etihad_Airways#/media/File:Etihad-airways-logo.svg",
+            "companyCode": "corp002",
+            "companyName" : "Emaar Properties",
+            "companyLogo" : "https://en.wikipedia.org/wiki/Emaar_Properties#/media/File:Emaar_Properties_logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LDAP"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "EY",
+            "airlineName": "Etihad Airways",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Etihad_Airways#/media/File:Etihad-airways-logo.svg",
+            "companyCode": "corp003",
+            "companyName" : "Abu Dhabi Commercial Bank",
+            "companyLogo" : "https://en.wikipedia.org/wiki/ADCB#/media/File:Abu_Dhabi_Commercial_Bank_logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "SAML"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "EY",
+            "airlineName": "Etihad Airways",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Etihad_Airways#/media/File:Etihad-airways-logo.svg",
+            "companyCode": "corp004",
+            "companyName" : "AT&T",
+            "companyLogo" : "https://en.wikipedia.org/wiki/AT%26T#/media/File:AT&T_logo_2016.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "OKTA"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "EY",
+            "airlineName": "Etihad Airways",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Etihad_Airways#/media/File:Etihad-airways-logo.svg",
+            "companyCode": "corp005",
+            "companyName" : "Etisalat",
+            "companyLogo" : "http://en.wikipedia.org/wiki/Etisalat#/media/File:Etisalat_Logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "QF",
+            "airlineName": "Qantas Airways Limited",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Qantas#/media/File:Qantas_Airways_logo_2016.svg",
+            "companyCode": "corp006",
+            "companyName" : "Wesfarmers",
+            "companyLogo" : "https://en.wikipedia.org/wiki/Wesfarmers#/media/File:Wesfarmers-brand.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "QF",
+            "airlineName": "Qantas Airways Limited",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Qantas#/media/File:Qantas_Airways_logo_2016.svg",
+            "companyCode": "corp007",
+            "companyName" : "Commonwealth Bank",
+            "companyLogo" : "https://en.wikipedia.org/wiki/Commonwealth_Bank#/media/File:Commonwealth_Bank.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "QF",
+            "airlineName": "Qantas Airways Limited",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Qantas#/media/File:Qantas_Airways_logo_2016.svg",
+            "companyCode": "corp008",
+            "companyName" : "BHP",
+            "companyLogo" : "https://en.wikipedia.org/wiki/BHP#/media/File:BHP_2017_logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "QF",
+            "airlineName": "Qantas Airways Limited",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Qantas#/media/File:Qantas_Airways_logo_2016.svg",
+            "companyCode": "corp009",
+            "companyName" : "National Australia Bank",
+            "companyLogo" : "https://en.wikipedia.org/wiki/National_Australia_Bank#/media/File:National_Australia_Bank.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success"
+            },
+            "airlineCode": "QF",
+            "airlineName": "Qantas Airways Limited",
+            "airlineLogo": "https://en.wikipedia.org/wiki/Qantas#/media/File:Qantas_Airways_logo_2016.svg",
+            "companyCode": "corp010",
+            "companyName" : "Incat",
+            "companyLogo" : "https://en.wikipedia.org/wiki/Incat#/media/File:Incat_logo.svg",
+            "webServiceUrl": "https://iflystaff.ibsplc.aero/EY/services",
+            "desktopUrl": "https://iflystaff.ibsplc.aero/iFly",
+            "authCount": "1",
+            "authMode": "LCL"
+        }
+    ]
+}

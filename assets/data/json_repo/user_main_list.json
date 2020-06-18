@@ -1,0 +1,531 @@
+{
+    "userList": [
+        {
+            "status": {
+                "statusCode": "-2",
+                "statusDescription": "User account is locked "
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp000",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": []
+            }
+        },
+        {
+            "status": {
+                "statusCode": "-3",
+                "statusDescription": "Change password has to be done"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp001",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": []
+            }
+        },
+        {
+            "status": {
+                "statusCode": "-4",
+                "statusDescription": "No email id configured to send two factor authentication code"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp002",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": []
+            }
+        },
+        {
+            "status": {
+                "statusCode": "-5",
+                "statusDescription": "Google recaptcha is required"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "Y",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp003",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": []
+            }
+        },
+        {
+            "status": {
+                "statusCode": "-6",
+                "statusDescription": "Restricted by the admin"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "Login is restricted by the admin",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp004",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": []
+            }
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success, two factor auth"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "Y",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp005",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": [
+                    {
+                        "roleCode": "NUSER",
+                        "roleName": "Employee",
+                        "shortcuts": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            }
+                        ],
+                        "modules": [
+                            {
+                                "moduleCode": "DSH",
+                                "moduleName": "Dashboard",
+                                "subModules": []
+                            },
+                            {
+                                "moduleCode": "MYBOOK",
+                                "moduleName": "Leisure Travel",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "LTCURBOOK",
+                                        "subModuleName": "Current Bookings"
+                                    },
+                                    {
+                                        "subModuleCode": "LTMKBOOK",
+                                        "subModuleName": "Make Booking"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "STPF",
+                                "moduleName": "My Profile",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "BNFDTL",
+                                        "subModuleName": "Beneficiary Details"
+                                    },
+                                    {
+                                        "subModuleCode": "TVENT",
+                                        "subModuleName": "My Travel Entitlements"
+                                    },
+                                    {
+                                        "subModuleCode": "BNFNMN",
+                                        "subModuleName": "Beneficiary Nomination"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success, two factor auth"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "Y",
+            "googleRecaptcha": "N",
+            "token": "change_password_user",
+            "userInfo": {
+                "empCode": "emp006",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": [
+                    {
+                        "roleCode": "NUSER",
+                        "roleName": "Employee",
+                        "shortcuts": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            }
+                        ],
+                        "modules": [
+                            {
+                                "moduleCode": "DSH",
+                                "moduleName": "Dashboard",
+                                "subModules": []
+                            },
+                            {
+                                "moduleCode": "MYBOOK",
+                                "moduleName": "Leisure Travel",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "LTCURBOOK",
+                                        "subModuleName": "Current Bookings"
+                                    },
+                                    {
+                                        "subModuleCode": "LTMKBOOK",
+                                        "subModuleName": "Make Booking"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "STPF",
+                                "moduleName": "My Profile",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "BNFDTL",
+                                        "subModuleName": "Beneficiary Details"
+                                    },
+                                    {
+                                        "subModuleCode": "TVENT",
+                                        "subModuleName": "My Travel Entitlements"
+                                    },
+                                    {
+                                        "subModuleCode": "BNFNMN",
+                                        "subModuleName": "Beneficiary Nomination"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success, two factor auth"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "Y",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp007",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": [
+                    {
+                        "roleCode": "NUSER",
+                        "roleName": "Employee",
+                        "shortcuts": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            }
+                        ],
+                        "modules": [
+                            {
+                                "moduleCode": "DSH",
+                                "moduleName": "Dashboard",
+                                "subModules": []
+                            },
+                            {
+                                "moduleCode": "MYBOOK",
+                                "moduleName": "Leisure Travel",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "LTCURBOOK",
+                                        "subModuleName": "Current Bookings"
+                                    },
+                                    {
+                                        "subModuleCode": "LTMKBOOK",
+                                        "subModuleName": "Make Booking"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "STPF",
+                                "moduleName": "My Profile",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "BNFDTL",
+                                        "subModuleName": "Beneficiary Details"
+                                    },
+                                    {
+                                        "subModuleCode": "TVENT",
+                                        "subModuleName": "My Travel Entitlements"
+                                    },
+                                    {
+                                        "subModuleCode": "BNFNMN",
+                                        "subModuleName": "Beneficiary Nomination"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "LGT",
+                                "moduleName": "Logout",
+                                "subModules": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success, two factor auth"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp008",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": [
+                    {
+                        "roleCode": "NUSER",
+                        "roleName": "Employee",
+                        "shortcuts": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            },
+                            {
+                                "subModuleCode": "BNFDTL",
+                                "subModuleName": "Beneficiary Details"
+                            },
+                            {
+                                "subModuleCode": "BNFNMN",
+                                "subModuleName": "Beneficiary Nomination"
+                            },
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            }
+                        ],
+                        "modules": [
+                            {
+                                "moduleCode": "DSH",
+                                "moduleName": "Dashboard",
+                                "subModules": []
+                            },
+                            {
+                                "moduleCode": "MYBOOK",
+                                "moduleName": "Leisure Travel",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "LTCURBOOK",
+                                        "subModuleName": "Current Bookings"
+                                    },
+                                    {
+                                        "subModuleCode": "LTMKBOOK",
+                                        "subModuleName": "Make Booking"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "STPF",
+                                "moduleName": "My Profile",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "BNFDTL",
+                                        "subModuleName": "Beneficiary Details"
+                                    },
+                                    {
+                                        "subModuleCode": "TVENT",
+                                        "subModuleName": "My Travel Entitlements"
+                                    },
+                                    {
+                                        "subModuleCode": "BNFNMN",
+                                        "subModuleName": "Beneficiary Nomination"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "LGT",
+                                "moduleName": "Logout",
+                                "subModules": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "status": {
+                "statusCode": "0",
+                "statusDescription": "Success, two factor auth"
+            },
+            "noOfAttemptsRemaining": "",
+            "customErrorMessage": "",
+            "twoFactorAuthNeeded": "N",
+            "googleRecaptcha": "N",
+            "token": "sdfjasdk77skksdf6u",
+            "userInfo": {
+                "empCode": "emp009",
+                "title": "Mr",
+                "firstName": "Smith",
+                "middleName": "Tom",
+                "surname": "John",
+                "lastlogintime": "11-MAR-2020 11:10:07",
+                "lastLoginSource": "MOBILE",
+                "roles": [
+                    {
+                        "roleCode": "NUSER",
+                        "roleName": "Employee",
+                        "shortcuts": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            }
+                        ],
+                        "modules": [
+                            {
+                                "moduleCode": "DSH",
+                                "moduleName": "Dashboard",
+                                "subModules": []
+                            },
+                            {
+                                "moduleCode": "MYBOOK",
+                                "moduleName": "Leisure Travel",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "LTCURBOOK",
+                                        "subModuleName": "Current Bookings"
+                                    },
+                                    {
+                                        "subModuleCode": "LTMKBOOK",
+                                        "subModuleName": "Make Booking"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "STPF",
+                                "moduleName": "My Profile",
+                                "subModules": [
+                                    {
+                                        "subModuleCode": "BNFDTL",
+                                        "subModuleName": "Beneficiary Details"
+                                    },
+                                    {
+                                        "subModuleCode": "TVENT",
+                                        "subModuleName": "My Travel Entitlements"
+                                    },
+                                    {
+                                        "subModuleCode": "BNFNMN",
+                                        "subModuleName": "Beneficiary Nomination"
+                                    }
+                                ]
+                            },
+                            {
+                                "moduleCode": "LGT",
+                                "moduleName": "Logout",
+                                "subModules": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

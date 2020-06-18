@@ -1,0 +1,230 @@
+{
+    "status": {
+        "statusCode": "0",
+        "statusDescription": "Success",
+        "errorCodes": {
+            "errorCode": "UPTD01",
+            "errorDescription": "The selected PNR has been modified outside"
+        }
+    },
+    "token": "sdfjasdk77skksdf6u",
+    "bookingDetails": {
+        "pnrDetails": {
+            "pnrNumber": "COJVRZ",
+            "bookingReference": "LT11297100",
+            "bookingStatusCode": "TKT",
+            "bookingStatusDescription": "Ticketed",
+            "paidIndicator": "Paid",
+            "bookingCreatedDate": "11-MAR-2020",
+            "bookingCreatedUser": "31902 (Ali Muhammed)",
+            "entitlementName": "Leisure Travel",
+            "passengerDetails": [
+                {
+                    "passengerName": "Dr Ali Muhammed",
+                    "title": "Dr",
+                    "firstName": "Ali",
+                    "surname": "Muhammed",
+                    "passengerCode": "SEL",
+                    "passengerCodeDescription": "Staff",
+                    "passengerUniqueNumber": "1",
+                    "passengerCategoryCode": "ADT",
+                    "passengerCategoryDescription": "Adult",
+                    "fare": {
+                        "baseFare": "2770",
+                        "taxFare": "835",
+                        "totalFare": "3605",
+                        "currencyCode": "AED",
+                        "taxDetails": [
+                            {
+                                "taxName": "INTERNATIONAL ADVANCED PASSENG",
+                                "taxCode": "ZR",
+                                "taxValue": "5"
+                            },
+                            {
+                                "taxName": "SERVICE FEE - CARRIER-IMPOSED",
+                                "taxCode": "YQF",
+                                "taxValue": "550"
+                            }
+                        ]
+                    },
+                    "ticketNumbers": [
+                        {
+                            "ticketNumber": "6072140317238"
+                        },
+                        {
+                            "ticketNumber": "6072140317239"
+                        }
+                    ],
+                    "enableRemovePax": "N"
+                },
+                {
+                    "passengerName": "Ann Mary Mathew",
+                    "title": "Dr",
+                    "firstName": "Ali",
+                    "surname": "Muhammed",
+                    "passengerCode": "SEL",
+                    "passengerCodeDescription": "Staff",
+                    "passengerUniqueNumber": "1",
+                    "passengerCategoryCode": "ADT",
+                    "passengerCategoryDescription": "Adult",
+                    "fare": {
+                        "baseFare": "2300",
+                        "taxFare": "900",
+                        "totalFare": "3200",
+                        "currencyCode": "AED",
+                        "taxDetails": [
+                            {
+                                "taxName": "INTERNATIONAL ADVANCED PASSENG",
+                                "taxCode": "ZR",
+                                "taxValue": "5"
+                            },
+                            {
+                                "taxName": "SERVICE FEE - CARRIER-IMPOSED",
+                                "taxCode": "YQF",
+                                "taxValue": "550"
+                            }
+                        ]
+                    },
+                    "ticketNumbers": [
+                        {
+                            "ticketNumber": "6072140317238"
+                        },
+                        {
+                            "ticketNumber": "6072140317239"
+                        }
+                    ],
+                    "enableRemovePax": "N"
+                },
+                {
+                    "passengerName": "David",
+                    "title": "Dr",
+                    "firstName": "Ali",
+                    "surname": "Muhammed",
+                    "passengerCode": "SEL",
+                    "passengerCodeDescription": "Staff",
+                    "passengerUniqueNumber": "1",
+                    "passengerCategoryCode": "ADT",
+                    "passengerCategoryDescription": "Adult",
+                    "fare": {
+                        "baseFare": "2900",
+                        "taxFare": "1000",
+                        "totalFare": "3900",
+                        "currencyCode": "AED",
+                        "taxDetails": [
+                            {
+                                "taxName": "INTERNATIONAL ADVANCED PASSENG",
+                                "taxCode": "ZR",
+                                "taxValue": "5"
+                            },
+                            {
+                                "taxName": "SERVICE FEE - CARRIER-IMPOSED",
+                                "taxCode": "YQF",
+                                "taxValue": "550"
+                            }
+                        ]
+                    },
+                    "ticketNumbers": [
+                        {
+                            "ticketNumber": "6072140317238"
+                        },
+                        {
+                            "ticketNumber": "6072140317239"
+                        }
+                    ],
+                    "enableRemovePax": "N"
+                }
+            ],
+            "iflyFlights": [
+                {
+                    "carrier": "EY",
+                    "flightNumber": "156",
+                    "departureDate": "07-Jul-2020",
+                    "departureTime": "02:10",
+                    "arrivalDate": "07-Jul-2020",
+                    "arrivalTime": "02:25",
+                    "origin": {
+                        "originCode": "AUH",
+                        "originDescription": "ABU DHABI"
+                    },
+                    "destination": {
+                        "destinationCode": "BAH",
+                        "destinationDescription": "BAHRAIN"
+                    },
+                    "travelCabinClassCode": "Y",
+                    "travelCabinClassName": "Economy",
+                    "enableRemoveSector": "N",
+                    "duration": "3hrs 25min",
+                    "numberOfStops": "0"
+                },
+                {
+                    "carrier": "EY",
+                    "flightNumber": "157",
+                    "departureDate": "15-Jul-2020",
+                    "departureTime": "04:20",
+                    "arrivalDate": "16-Jul-2020",
+                    "arrivalTime": "06:30",
+                    "origin": {
+                        "originCode": "BAH",
+                        "originDescription": "BAHRAIN"
+                    },
+                    "destination": {
+                        "destinationCode": "NYC",
+                        "destinationDescription": "NEW YORK"
+                    },
+                    "travelCabinClassCode": "Y",
+                    "travelCabinClassName": "Economy",
+                    "enableRemoveSector": "N",
+                    "duration": "3hrs 25min",
+                    "numberOfStops": "0"
+                }
+            ],
+            "paymentDetails": [
+                {
+                    "baseFare": "5540",
+                    "tax": "1670",
+                    "totalAmoutPaid": "7210",
+                    "refundAmount": "0",
+                    "formOfPayment": "CC",
+                    "formOfPaymentDescription": "Credit Card"
+                }
+            ]
+        },
+        "externalFlights": {},
+        "carBookings": {},
+        "conferenceRooms": {},
+        "hotels": {},
+        "visaDetails": {},
+        "displayFlightLoad": "N",
+        "dislplayStaffListing": "N",
+        "operationsPermitted": [
+            {
+                "operationCode": "CB",
+                "operationDescription": "Change Booking"
+            },
+            {
+                "operationCode": "RMPAX",
+                "operationDescription": "Remove Pax"
+            },
+            {
+                "operationCode": "RMSEC",
+                "operationDescription": "Remove Sector"
+            },
+            {
+                "operationCode": "CAN",
+                "operationDescription": "Cancel Booking"
+            },
+            {
+                "operationCode": "RESITN",
+                "operationDescription": "Resend Itinerary"
+            },
+            {
+                "operationCode": "UPDCON",
+                "operationDescription": "Update Contacts"
+            },
+            {
+                "operationCode": "UPDEXT",
+                "operationDescription": "Update extras"
+            }
+        ]
+    }
+}

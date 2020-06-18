@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - keychainkeystoreplugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - keychainkeystoreplugin (from `.symlinks/plugins/keychainkeystoreplugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  keychainkeystoreplugin:
+    :path: ".symlinks/plugins/keychainkeystoreplugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  keychainkeystoreplugin: 624496c3818f5df8b5566f69911203b27424cef9
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.8.4

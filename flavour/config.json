@@ -1,0 +1,26 @@
+{
+
+  "DEV" : {
+    "source" : "MOBILE",
+    "api_version" :"1.0",
+    "dummy_json_data": "assets/data/json_repo/",
+    "valide_otp": "4856",
+    "expired_otp": "7834",
+    "change_password_user": "emp005",
+    "resend_otp_error_user": "emp006",
+    "user_1": "emp007",
+    "user_2": "emp008",
+    "user_3": "emp009"
+  },
+  "TEST" : {
+    "source" : "MOBILE",
+    "api_version" :"1.0",
+    "dummy_json_data": "assets/data/json_repo/"
+  },
+
+  "PROD" : {
+    "source" : "MOBILE",
+    "api_version" :"1.0",
+    "dummy_json_data": "assets/data/json_repo/"
+  }
+}

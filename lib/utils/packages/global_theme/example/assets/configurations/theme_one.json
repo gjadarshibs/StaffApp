@@ -1,0 +1,37 @@
+{
+  "theme_configuration": {
+    "color": {
+      "auto_brightness": true,
+      "primary_color": "#311B92",
+      "accent_color": "#7E57C2",
+      "app_bar_color": "#7B1FA2",
+      "scaffold_background_color": "#F3E5F5"
+    },
+    "text_style": {
+      "font_family": "Arimo",
+      "heading": {
+        "color": "#454545",
+        "font_size": 25.0
+      },
+      "sub_heading": {
+        "color": "#454545",
+        "font_size": 20.0
+      },
+      "body": {
+        "color": "#454545",
+        "font_size": 17.0
+      }
+    },
+    "decoration": {
+      "rounded_edge": {
+        "corner_radius": 10.0,
+        "border_width": 3.0,
+        "border_color": "#F807A6B",
+        "color": "#f4829b2"
+      },
+      "image_backgrounded": {
+        "asset_location": "assets/images/background.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "userList" : [
+    {
+        "corporateId" : "corp001",
+        "username" : "emp000",
+        "password" : "qwerty",
+        "userId" : "0"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp001",
+        "password" : "qwerty",
+        "userId" : "1"
+    },
+    {
+        
+        "corporateId" : "corp001",
+        "username" : "emp002",
+        "password" : "qwerty",
+        "userId" : "2"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp003",
+        "password" : "qwerty",
+        "userId" : "3"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp004",
+        "password" : "qwerty",
+        "userId" : "4"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp005",
+        "password" : "qwerty",
+        "userId" : "5"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp006",
+        "password" : "qwerty",
+        "userId" : "6"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp007",
+        "password" : "qwerty",
+        "userId" : "7"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp008",
+        "password" : "qwerty",
+        "userId" : "8"
+    },
+    {
+        "corporateId" : "corp001",
+        "username" : "emp009",
+        "password" : "qwerty",
+        "userId" : "9"
+    }
+  ] 
+}

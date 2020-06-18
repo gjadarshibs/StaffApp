@@ -1,0 +1,3 @@
+package utils.packages.local_storage.android
+
+rootProject.name = 'flutter_secure_storage'

@@ -1,0 +1,185 @@
+{
+    "status": {
+        "statusCode": "0",
+        "statusDescription": "Success"
+    },
+    "token": "asdfasdf32434rdgdsgr343s",
+    "upcomingTrips": [
+        {
+            "tripType": "LT",
+            "bookingReference": "LT637830",
+            "pnr": "YUNHJD",
+            "carrier": "EY",
+            "flightNumber": "356",
+            "depatureDate": "12-Jun-2020 11:12:00",
+            "arrivalDate": "12-Jun-2020 18:21:00",
+            "origin": {
+                "originCode": "DXB",
+                "originDescription": "Dubai"
+            },
+            "destination": {
+                "destinationCode": "BAH",
+                "destinationDescription": "Bahrain"
+            },
+            "travelCabinClassCode": "Y",
+            "travelCabinClassName": "Economy",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N",
+            "flightLoadInformation": {
+                "totalCapacity": "200",
+                "bookedSeat": "120",
+                "standbyCount": "10",
+                "seatsAvailbleForBooking": "80",
+                "upgradeCount": "6",
+                "smiley": "1"
+            }
+        },
+        {
+            "tripType": "DT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "237",
+            "depatureDate": "22-Jun-2020 11:12:00",
+            "arrivalDate": "23-Jun-2020 21:11:00",
+            "origin": {
+                "originCode": "AUH",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "SYD",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "DT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "567",
+            "depatureDate": "22-Aug-2020 14:12:00",
+            "arrivalDate": "23-Aug-2020 23:11:00",
+            "origin": {
+                "originCode": "TRV",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "COK",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "LT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "987",
+            "depatureDate": "22-Jan-2020 14:12:00",
+            "arrivalDate": "25-Jan-2020 01:11:00",
+            "origin": {
+                "originCode": "BLF",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "CPR",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "LT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "123",
+            "depatureDate": "02-Feb-2020 20:12:00",
+            "arrivalDate": "03-Feb-2020 21:11:00",
+            "origin": {
+                "originCode": "HCR",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "KNK",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "DT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "198",
+            "depatureDate": "22-Jun-2020 11:12:00",
+            "arrivalDate": "23-Jun-2020 21:11:00",
+            "origin": {
+                "originCode": "NYC",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "SYD",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "LT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "156",
+            "depatureDate": "22-Jun-2020 11:12:00",
+            "arrivalDate": "23-Jun-2020 21:11:00",
+            "origin": {
+                "originCode": "AUH",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "WMH",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        },
+        {
+            "tripType": "DT",
+            "bookingReference": "LT345345",
+            "pnr": "JKSDFU",
+            "carrier": "EY",
+            "flightNumber": "237",
+            "depatureDate": "22-Jun-2020 11:12:00",
+            "arrivalDate": "23-Jun-2020 21:11:00",
+            "origin": {
+                "originCode": "OR",
+                "originDescription": "Abu Dhabi"
+            },
+            "destination": {
+                "destinationCode": "LEX",
+                "destinationDescription": "Sydney"
+            },
+            "travelCabinClassCode": "J",
+            "travelCabinClassName": "Business",
+            "displayFlightLoad": "Y",
+            "dislplayStaffListing": "N"
+        }
+    ]
+}

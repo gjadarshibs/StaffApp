@@ -1,0 +1,77 @@
+{
+    "status": {
+        "statusCode": "0",
+        "statusDescription": "Success"
+    },
+    "twoFactorAuthNeeded": "N",
+    "googleRecaptcha": "N",
+    "token": "sdfjasdk77skksdf6u",
+    "userInfo": {
+        "empCode": "453454",
+        "title": "Mr",
+        "firstName": "Smith",
+        "middleName": "Tom",
+        "surname": "John",
+        "lastlogintime": "11-MAR-2020 11:10:07",
+        "lastLoginSource": "MOBILE",
+        "roles": [
+            {
+                "roleCode": "NUSER",
+                "roleName": "Employee",
+                "shortcuts": [
+                    {
+                        "subModuleCode": "LTCURBOOK",
+                        "subModuleName": "Current Bookings"
+                    },
+                    {
+                        "subModuleCode": "LTMKBOOK",
+                        "subModuleName": "Make Booking"
+                    },
+                    {
+                        "subModuleCode": "TVENT",
+                        "subModuleName": "My Travel Entitlements"
+                    }
+                ],
+                "modules": [
+                    {
+                        "moduleCode": "DSH",
+                        "moduleName": "Dashboard",
+                        "subModules": []
+                    },
+                    {
+                        "moduleCode": "MYBOOK",
+                        "moduleName": "Leisure Travel",
+                        "subModules": [
+                            {
+                                "subModuleCode": "LTCURBOOK",
+                                "subModuleName": "Current Bookings"
+                            },
+                            {
+                                "subModuleCode": "LTMKBOOK",
+                                "subModuleName": "Make Booking"
+                            }
+                        ]
+                    },
+                    {
+                        "moduleCode": "STPF",
+                        "moduleName": "My Profile",
+                        "subModules": [
+                            {
+                                "subModuleCode": "BNFDTL",
+                                "subModuleName": "Beneficiary Details"
+                            },
+                            {
+                                "subModuleCode": "TVENT",
+                                "subModuleName": "My Travel Entitlements"
+                            },
+                            {
+                                "subModuleCode": "BNFNMN",
+                                "subModuleName": "Beneficiary Nomination"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
